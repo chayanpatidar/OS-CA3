@@ -3,9 +3,3 @@ Consider a scheduling approach which is non pre-emptive similar to shortest job 
 Priority = 1+ Waiting time / Estimated run time
 Using the data given below compute the waiting time and turnaround time for each process and average waiting time and average turnaround time.
 
-Process	Arrival time	Burst time
-P1	0	20
-P2	5	36
-P3	13	19
-P4	17	42
-
