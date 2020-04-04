@@ -93,7 +93,6 @@ Arrival time <= Execution time
     }
     k++;
   }
-  
   waitingTime[0] = 0;
   for(i=1;i<n;i++)
   {
